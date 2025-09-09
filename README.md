@@ -1,2 +1,13 @@
-# db_sapataria
-Banco de dados para uma sapataria fictícia feito como parte de um trabalho da disciplina de Fundamentos de Banco de Dados
+# 🏪 Sistema de Gerenciamento de Sapataria
+
+Sistema de banco de dados para gestão de uma sapataria, desenvolvido em MySQL.
+
+## 📋 Estrutura do Banco
+
+### Tabelas Principais
+- `loja` - Cadastro de lojas
+- `funcionarios` - Funcionários da loja  
+- `clientes` - Cadastro de clientes
+- `produtos` - Catálogo de produtos
+- `pedidos` - Registro de pedidos
+- `vendas` - Registro de vendas
