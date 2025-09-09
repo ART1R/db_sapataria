@@ -14,7 +14,7 @@ Este repositório contém os **scripts SQL** e o **modelo físico** do banco de 
   - `selection.sql` → Consultas de exemplo (JOIN, LIKE, BETWEEN, DISTINCT, etc.).
 
 - **modelo/** → Contém o modelo físico do banco:
-  - `modelo_fisico.png` → Diagrama ER exportado de ferramenta como MySQL Workbench ou BrModelo.
+  - `modelo_fisico.png` → Diagrama exportado diretamente do MySQL Workbench.
 
 - **README.md** → Este arquivo.
 
