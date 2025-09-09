@@ -24,7 +24,7 @@ Este repositório contém os **scripts SQL** e o **modelo físico** do banco de 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/SEU_USUARIO/db_sapataria.git
+git clone https://github.com/ART1R/db_sapataria.git
 cd db_sapataria
 ```
 
@@ -46,5 +46,5 @@ SOURCE scripts/deletes.sql;
 
 5. Execute consultas de exemplo:
 ```bash
-SOURCE scripts/consultas.sql;
+SOURCE scripts/selects.sql;
 ```
