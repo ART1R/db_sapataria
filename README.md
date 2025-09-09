@@ -36,12 +36,12 @@ SOURCE scripts/inserts.sql;
 
 3. Execute atualizações de exemplos nas tabelas:
 ```bash
-SOURCE scripts/updates.sql
+SOURCE scripts/updates.sql;
 ```
 
 4. Execute exclusões de exemplos na tabela:
 ```bash
-SOURCE scripts/deletes.sql
+SOURCE scripts/deletes.sql;
 ``` 
 
 5. Execute consultas de exemplo:
