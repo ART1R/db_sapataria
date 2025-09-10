@@ -30,8 +30,8 @@ cd db_sapataria
 
 2. Acesse o MySQL, crie o banco e adicione os dados de exemplo:
 ```bash
-SOURCE scripts/create_tables.sql;
-SOURCE scripts/inserts.sql;
+SOURCE scripts/schema.sql;
+SOURCE scripts/data.sql;
 ```
 
 3. Execute atualizações de exemplos nas tabelas:
