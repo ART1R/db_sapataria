@@ -24,7 +24,7 @@ Este repositório contém os **scripts SQL** e o **modelo físico** do banco de 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/ART1R/db_sapataria.git
+git clone https://github.com/arthur-rn/db_sapataria.git
 cd db_sapataria
 ```
 
